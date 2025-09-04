@@ -1,2 +1,7 @@
 # MUI-Maps-PuertoRico
-Mapas [9-15] de Puerto Rico
+
+Mapas de Puerto Rico:
+
+Standard-OSM [9-15]
+
+CartoDB-Dark-Matter [9-15]
