@@ -1,4 +1,13 @@
-# MUI-Maps-PuertoRico
+## Configuracion Basica
+
+- Preset: 
+- 
+- 
+## Chat
+
+- [WhatsApp](https://chat.whatsapp.com/DuTpXPIjYb8G84oJmawWLp?mode=ems_copy_t)
+
+## MUI-Maps-PuertoRico
 
 Mapas de Puerto Rico para el MUI (LILYGO T-Deck & Seed SenseCAP Indicator):
 
