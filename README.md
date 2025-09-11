@@ -33,7 +33,9 @@
 
 [Meshtastic Documentation](https://meshtastic.org/docs/introduction/)
 
-[Meshtastic Web Client](https://client.meshtastic.org/)
+[Meshtastic Web Client](https://client.meshtastic.org/) (BLE/Serial Google Chrome)
+
+[Meshtastic Web Flasher](https://flash.meshtastic.org/) (Google Chrome)
 
 [Remote Node Administration](https://meshtastic.org/docs/configuration/remote-admin/)
 
