@@ -5,7 +5,7 @@
 ### Facebook
 - [Meshtastic Puerto Rico](https://www.facebook.com/groups/3150733368394141/)
 ### Telegram
-- [Mesh LoRa 🇵🇷](https://t.me/+uKF5t2Nz6GYxZTgx)
+- [MeshPR](https://t.me/+uKF5t2Nz6GYxZTgx)
 
 
 ## Tutoriales y Videos
