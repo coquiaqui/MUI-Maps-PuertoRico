@@ -10,7 +10,7 @@
 - [Mesh LoRa 🇵🇷](https://t.me/+uKF5t2Nz6GYxZTgx)
 
 
-## Tutoriales
+## Tutoriales y Videos
 
 ### Español
 - [Empezando Con Meshtastic FÁCIL Y RÁPIDO!!!](https://m.youtube.com/watch?v=11SWe--ZU08)
