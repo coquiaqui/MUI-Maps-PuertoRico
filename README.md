@@ -1,6 +1,6 @@
 # Meshtastic Puerto Rico
 
-## Comunidades
+## Grupos y Canales
 
 ### WhatsApp
 - [Meshtastic PR](https://chat.whatsapp.com/DuTpXPIjYb8G84oJmawWLp?)
@@ -11,6 +11,10 @@
 
 
 ## Tutoriales
+
+### Español
+*
+*
 
 ### Ingles
 
@@ -24,13 +28,9 @@
 - ["2024 Solar Meshtastic Build"](https://www.youtube.com/playlist?list=PLshzThxhw4O5HLlxgbZoaEL_LZCBjgv-C)
 
 
-### Español
-*
-*
+## Recursos Locales
 
-## Recursos de la comunidad
-
-> Aqui se encuentran recursos hechos por la comunidad de Meshtastic Puerto Rico
+> Aqui se encuentran recursos hechos por la comunidad de Meshtastic Puerto Rico para todos
 
 -- Mapas MUI (LILYGO T-Deck & Seed SenseCAP Indicator)
 
