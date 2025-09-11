@@ -12,14 +12,14 @@
 
 ### Ingles
 
--- [The Comms Channel](https://www.youtube.com/@The_Comms_Channel) YouTube Playlists : 
+-- "The Comms Channel" Playlists : 
 - ["Getting Started with Meshtastic"](https://www.youtube.com/playlist?list=PLshzThxhw4O5JTOACGHzYSSd3soDhoXKK)
 - ["Advanced Meshtastic Series"](https://www.youtube.com/playlist?list=PLshzThxhw4O4--klTjqDzR6KeJyqXNNXI)
 - ["DIY Solar Meshtastic Box"](https://www.youtube.com/playlist?list=PLshzThxhw4O5HLlxgbZoaEL_LZCBjgv-C)
 
-- ["RAK Wireless Solar Enclosure"](https://www.youtube.com/playlist?list=PLshzThxhw4O4cv4ZhSRNqr8izfNNmBpsP)
+- [RAK Wireless Solar Enclosure](https://www.youtube.com/playlist?list=PLshzThxhw4O4cv4ZhSRNqr8izfNNmBpsP)
 
-- ["2024 Solar Meshtastic Build"](https://www.youtube.com/playlist?list=PLshzThxhw4O76SNR2Og4-bNSQke46jlov)
+- ["2024 Solar Meshtastic Build"](https://www.youtube.com/playlist?list=PLshzThxhw4O5HLlxgbZoaEL_LZCBjgv-C)
 
 
 ### Español
@@ -28,7 +28,7 @@
 
 ## Recursos de la comunidad
 
-> Aqui se encuentran recursos hechos por la comunidad de Meshtastic de Puerto Rico
+> Aqui se encuentran recursos hechos por la comunidad de Meshtastic Puerto Rico
 
 -- Mapas MUI (LILYGO T-Deck & Seed SenseCAP Indicator)
 
