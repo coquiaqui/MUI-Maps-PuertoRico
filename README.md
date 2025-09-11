@@ -1,6 +1,6 @@
 # Meshtastic Puerto Rico
 
-## Grupos de Chat
+## Comunidades
 
 ### WhatsApp
 - [Meshtastic PR](https://chat.whatsapp.com/DuTpXPIjYb8G84oJmawWLp?)
