@@ -32,4 +32,4 @@
 
 -- Mapas MUI (LILYGO T-Deck & Seed SenseCAP Indicator)
 
-- [[9-16]Atlas-PR.zip](https://drive.google.com/file/d/1x756upRe7rY8L6f1REn9f8sMljDI-NUa/view?usp=drive_link)
+- [[9-16]Atlas-PR.zip](https://github.com/coquiaqui/Meshtastic-Puerto-Rico/releases/download/0.0.1/9-16.Atlas-PR.zip)
