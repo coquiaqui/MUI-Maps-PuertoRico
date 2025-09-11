@@ -1,5 +1,3 @@
-# Meshtastic Puerto Rico
-
 ## Grupos y Canales
 
 ### WhatsApp
