@@ -6,7 +6,8 @@
 - [Meshtastic PR](https://chat.whatsapp.com/DuTpXPIjYb8G84oJmawWLp?)
 ### Telegram
 - [Mesh LoRa 🇵🇷](https://t.me/+uKF5t2Nz6GYxZTgx)
-
+### Facebook
+- [Meshtastic Puerto Rico](https://www.facebook.com/groups/3150733368394141/)
 
 ## Tutoriales
 
